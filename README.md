@@ -1,7 +1,7 @@
 # Instrukcja
 1. Właczasz komputer
 2. Logujesz się na mnie. Hasło: `sillypass`
-3. Klikasz Windows i wpisujesz `git`, potem Enter
+3. Klikasz Windows ![logo](logo.png) i wpisujesz `git`, potem Enter
 4. W programie
   - `cd Documents/algorytmy`
   - `git add *`
